@@ -9,3 +9,5 @@ https://go.dev/doc/tutorial/handle-errors
 https://go.dev/doc/tutorial/random-greeting
 
 https://go.dev/doc/tutorial/greetings-multiple-people
+
+https://go.dev/doc/tutorial/add-a-test
